@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Dev branch') {
             steps {
-                sh 'echo "This is dev branch code testing"'
+                sh 'echo "This is dev branch code testing update"'
             }
         }
 
